@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[cv](https://dgerin.github.io/cv/)
+# [cv](https://dgerin.github.io/cv/)
