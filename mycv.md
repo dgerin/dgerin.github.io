@@ -1,6 +1,7 @@
 ---
 layout: page
-title: cv
-othersite: https://dgerin.github.io/cv
+title: "my cv"
+permalink: /mycv/
 ---
+[here](https://dgerin.github.io/cv)
 
