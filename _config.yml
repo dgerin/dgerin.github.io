@@ -31,7 +31,7 @@ plugins:
 
 header_pages:
   - mycv.md
-  - print3d.md
+  - 3dPrint.md
   - about.md
 
 # Exclude from processing.
