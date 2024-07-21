@@ -4,4 +4,4 @@
 
 ![alt text](https://drive.google.com/file/d/1NABYO1pLIJk9O-XX9PxB58JPHe6cR5S1/view?usp=drive_link "what it should looks like :)")
 
-![alt text](img.png "what it should looks like :)")
+!["what it should looks like :)"](img.png )
