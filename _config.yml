@@ -31,6 +31,7 @@ plugins:
 
 header_pages:
   - mycv.md
+  - myvm.md
   - 3dPrint.md
   - about.md
 
