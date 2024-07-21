@@ -1,8 +1,8 @@
 ---
 layout: page
-title: myvm
+title: VMs
 permalink: /myvm/
 ---
 
 ### My Virtual Machines
-[my tiny tool to build/launch virtual machines with qemu](https://github.com/dgerinmem/qemu_vm)
+[1. tiny tool to build/launch virtual machines with qemu](https://github.com/dgerinmem/qemu_vm)
