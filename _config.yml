@@ -30,6 +30,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - articles.md
   - mycv.md
   - myvm.md
   - archery.md
