@@ -30,11 +30,12 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - mycv.md
   - articles.md
   - myvm.md
   - archery.md
   - 3dPrint.md
+  - mycv.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
