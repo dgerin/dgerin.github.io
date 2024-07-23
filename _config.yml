@@ -30,8 +30,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - articles.md
   - mycv.md
+  - articles.md
   - myvm.md
   - archery.md
   - 3dPrint.md
