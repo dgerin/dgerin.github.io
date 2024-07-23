@@ -32,6 +32,7 @@ plugins:
 header_pages:
   - mycv.md
   - myvm.md
+  - archery.md
   - 3dPrint.md
 
 # Exclude from processing.
