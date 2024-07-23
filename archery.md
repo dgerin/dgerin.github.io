@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "my archery"
+title: "archery"
 permalink: /archery/
 ---
